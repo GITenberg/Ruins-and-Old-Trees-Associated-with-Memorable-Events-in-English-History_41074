@@ -1,0 +1,42 @@
+_repo: Ruins-and-Old-Trees-Associated-with-Memorable-Events-in-English-History_41074
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gilbert, John
+    alias: Gilbert, Sir John
+    birthdate: 1817
+    deathdate: 1897
+    gutenberg_agent_id: '31359'
+    url: http://www.gutenberg.org/2009/agents/31359
+  - agent_name: Folkard, W. A. (William A.)
+    gutenberg_agent_id: '40661'
+    url: http://www.gutenberg.org/2009/agents/40661
+covers:
+- cover_type: archival
+  image_path: 41074-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, Mary
+    aliases:
+    - Gleva, Mary de
+    - De Gleva, Mary
+    birthdate: 1788
+    deathdate: 1864
+    gutenberg_agent_id: '40966'
+    url: http://www.gutenberg.org/2009/agents/40966
+description: ''
+gutenberg_issued: '2012-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Antiquities'
+- !lcsh 'England -- Description and travel'
+- !lcsh 'Trees -- England'
+- !lcc 'DA'
+title: Ruins and Old Trees, Associated with Memorable Events in English History
+url: http://www.gutenberg.org/ebooks/41074
